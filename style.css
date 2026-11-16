@@ -37,7 +37,7 @@ body {
     transition: background .3s, color .3s;
 }
 
-/* NAVBAR */
+
 
 header {
     background: var(--bg);
